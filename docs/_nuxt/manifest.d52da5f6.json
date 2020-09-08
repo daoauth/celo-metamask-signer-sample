@@ -1,0 +1,54 @@
+{
+  "name": "celo-metamask-signer-sample",
+  "short_name": "celo-metamask-signer-sample",
+  "description": "## Build Setup",
+  "icons": [
+    {
+      "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_64x64.5c2d3f.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_120x120.5c2d3f.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_144x144.5c2d3f.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_152x152.5c2d3f.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_192x192.5c2d3f.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_384x384.5c2d3f.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_512x512.5c2d3f.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/celo-metamask-signer-sample/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "black",
+  "lang": "en"
+}
