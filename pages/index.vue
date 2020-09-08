@@ -7,7 +7,7 @@
             <img src="/celo-metamask-signer-sample/icon-celo-CELO-color-f.svg">
           </span>
           &nbsp;
-          MetaCelo - MetaMask Celo TX Signer
+          Celo MetaMask Signer
         </p>
       </header>
       <div class="card-content">
