@@ -28,7 +28,7 @@ async function sendTx () {
     data: 'IF YOU WANT USE SMART CONTRACT'
   }
   const receipt = await sendTransaction(kit, web3, rawTx)
-  console.log(`https://alfajores-blockscout.celo-testnet.org/tx/${receipt.transactionHash}`)
+  console.log(receipt)
 }
 ```
 
