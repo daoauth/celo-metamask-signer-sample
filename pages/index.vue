@@ -14,7 +14,9 @@
         <div class="control">
           <div class="select">
             <select>
-              <option selected>https://alfajores-forno.celo-testnet.org</option>
+              <option selected>
+                https://alfajores-forno.celo-testnet.org
+              </option>
             </select>
           </div>
         </div>
@@ -151,7 +153,8 @@ export default {
         value: this.value
       }
       this.sended = true
-      const receipt = await sendTransaction(this.kit, this.web3, transactionParameters)
+      const tx = await sendTransaction(this.kit, this.web3, transactionParameters)
+      const receipt = await tx.waitReceipt()
       this.linkTx = `https://alfajores-blockscout.celo-testnet.org/tx/${receipt.transactionHash}`
       const totalBalance = await this.kit.getTotalBalance(this.account)
       for (let i = 0; i < this.balance.length; i++) {

@@ -27,7 +27,8 @@ async function sendTx () {
     value: 'VALUE',
     data: 'IF YOU WANT USE SMART CONTRACT'
   }
-  const receipt = await sendTransaction(kit, web3, rawTx)
+  const tx = await sendTransaction(kit, web3, rawTx)
+  const receipt = await tx.waitReceipt()
   console.log(receipt)
 }
 ```
