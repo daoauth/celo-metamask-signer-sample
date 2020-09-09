@@ -11,6 +11,7 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
+    "@celo/celocli": "^0.0.56",
     "@celo/contractkit": "^0.4.13",
     "@did-kr-cg/celo-metamask-signer": "^0.0.1",
     "@nuxtjs/bulma": "^1.3.0",

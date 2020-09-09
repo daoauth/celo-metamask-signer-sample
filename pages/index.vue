@@ -153,6 +153,10 @@ export default {
       this.sended = true
       const receipt = await sendTransaction(this.kit, this.web3, transactionParameters)
       this.linkTx = `https://alfajores-blockscout.celo-testnet.org/tx/${receipt.transactionHash}`
+      const totalBalance = await this.kit.getTotalBalance(this.account)
+      for (let i = 0; i < this.balance.length; i++) {
+        this.balance[i].value = this.kit.web3.utils.fromWei(totalBalance[this.balance[i].name].toString())
+      }
     }
   }
 
