@@ -1097,10 +1097,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@did-kr-cg/celo-metamask-signer@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@did-kr-cg/celo-metamask-signer/-/celo-metamask-signer-0.0.3.tgz#525fd7d4ac8046a412bf2aedb1b73a10a8aa1d7a"
-  integrity sha512-X6YwdO3JVGwcPaE/SEXxq63Vy9VwlQtvqZ0LYO3EuSudKOuT2hdl6ljx0HfYDTLZb23Jw5L8AXM/oBWOGEEszQ==
+"@did-kr-cg/celo-metamask-signer@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@did-kr-cg/celo-metamask-signer/-/celo-metamask-signer-0.1.0.tgz#f47468bfdc28931d09c9eee10677493002fcc3c8"
+  integrity sha512-30O/iW5tuO+PHE7YA9tNkHYGKxnQsCGyzYd/jM5GU06gsBLC5d0ZWsBNZ6n+Oqh0keyRFEeW1WhLYiYxFqGNZA==
   dependencies:
     "@celo/contractkit" "^0.4.13"
 

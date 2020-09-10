@@ -162,17 +162,6 @@ export default {
       }
     }
   }
-
-  /*
-  async mounted () {
-    const transactionParameters = {
-      from: '',
-      to: '',
-      value: '1'
-    }
-    await web3(transactionParameters)
-  }
-  */
 }
 </script>
 
