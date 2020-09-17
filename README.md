@@ -1,5 +1,6 @@
 # celo-metamask-signer-sample
 [Click here](https://daoauth.github.io/celo-metamask-signer-sample/) for a link to the demo.
+
 ![sample](https://user-images.githubusercontent.com/57783762/93460539-50505b00-f91e-11ea-82f7-274c146e2775.gif)
 
 ## Sample Code
