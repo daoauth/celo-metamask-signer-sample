@@ -1,4 +1,5 @@
 # celo-metamask-signer-sample
+[Click here](https://daoauth.github.io/celo-metamask-signer-sample/) for a link to the demo.
 
 ## Sample Code
 [index.vue](https://github.com/daoauth/celo-metamask-signer-sample/blob/master/pages/index.vue)
