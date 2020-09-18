@@ -3,6 +3,8 @@
 
 ![sample](https://user-images.githubusercontent.com/57783762/93460539-50505b00-f91e-11ea-82f7-274c146e2775.gif)
 
+![swap](https://user-images.githubusercontent.com/57783762/93609816-448c9380-fa07-11ea-8b7c-4d230d2e297c.gif)
+
 ## Sample Code
 [index.vue](https://github.com/daoauth/celo-metamask-signer-sample/blob/master/pages/index.vue)
 ```javascript
