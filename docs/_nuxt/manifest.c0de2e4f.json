@@ -1,7 +1,7 @@
 {
-  "name": "celo-metamask-signer-sample",
-  "short_name": "celo-metamask-signer-sample",
-  "description": "## Sample Code [index.vue](https://github.com/daoauth/celo-metamask-signer-sample/blob/master/pages/index.vue) ```javascript import { sendTransaction } from '@did-kr-cg/celo-metamask-signer' const ContractKit = require('@celo/contractkit') const Web3 = require('web3')",
+  "name": "dexfair",
+  "short_name": "dexfair",
+  "description": "## Build Setup",
   "icons": [
     {
       "src": "/celo-metamask-signer-sample/_nuxt/icons/icon_64x64.5c2d3f.png",
